@@ -6,12 +6,11 @@ Hi 👋, I'm Shreehari C R<br>A passionate Full-Stack Developer from India<br><b
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EzaUyvqf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shreehari_cr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreehari-c-r-4901a9194/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shreehari000) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Shreehari-C-R) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Shreehari_000)
 
 # Coding Platforms:
-<a href="https://www.hackerrank.com/shreehari000?hr_r=1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
-</a>
-
 <a href="https://leetcode.com/shree-000/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+</a>
+<a href="https://www.hackerrank.com/shreehari000?hr_r=1" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30" />
 </a>
 
 # 💻 Tech Stack:
