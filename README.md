@@ -7,10 +7,10 @@ Hi 👋, I'm Shreehari C R<br>A passionate Full-Stack Developer from India<br><b
 
 # Coding Platforms:
 <a href="https://leetcode.com/shree-000/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+  <img src="https://shorturl.at/cLQU9" alt="LeetCode" width="30" height="30" />
 </a>
 <a href="https://www.hackerrank.com/shreehari000?hr_r=1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
+  <img src="https://shorturl.at/guvXY" alt="HackerRank" width="30" height="30" />
 </a>
 
 # 💻 Tech Stack:
